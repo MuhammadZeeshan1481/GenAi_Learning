@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+.venv/
+.ENV/
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+.cache/
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# PDFs or large input files (optional)
+*.pdf
+
+# History logs or output dumps
+history/
+
+# PyTorch / Transformers
+*.ckpt
+*.pt
+*.bin
+*.h5
+
+# VS Code
+.vscode/
+
+# Logs
+*.log

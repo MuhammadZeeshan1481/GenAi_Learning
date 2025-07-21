@@ -1,0 +1,32 @@
+# Core LangChain & Embeddings
+langchain==0.3.26
+langchain-community==0.3.27
+langchain-core==0.3.69
+langchain-huggingface==0.3.0
+transformers[sentencepiece]
+faiss-cpu
+sentence-transformers
+
+# PDF Parsing
+PyMuPDF
+
+# Streamlit Frontend
+streamlit
+streamlit-chat
+
+# Env & Config
+python-dotenv
+
+# Summarization
+torch
+accelerate
+
+# Translation
+deep-translator==1.11.4
+
+# Logging
+loguru
+
+# Deployment (optional)
+uvicorn
+fastapi
