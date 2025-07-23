@@ -6,6 +6,7 @@ langchain-huggingface==0.3.0
 transformers[sentencepiece]
 faiss-cpu
 sentence-transformers
+langdetect
 
 # PDF Parsing
 PyMuPDF
